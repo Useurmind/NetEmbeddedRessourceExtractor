@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetEmbeddedRessourceExtractor", "NetEmbeddedRessourceExtractor\NetEmbeddedRessourceExtractor.csproj", "{56801731-AAA6-4BE8-9BBA-5F2E41474B69}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetEmbeddedRessourceExtractor", "NetEmbeddedRessourceExtractor\NetEmbeddedRessourceExtractor.csproj", "{A39F36BB-7326-4DB8-906A-8F3D6C7AF508}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{56801731-AAA6-4BE8-9BBA-5F2E41474B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{56801731-AAA6-4BE8-9BBA-5F2E41474B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{56801731-AAA6-4BE8-9BBA-5F2E41474B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{56801731-AAA6-4BE8-9BBA-5F2E41474B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A39F36BB-7326-4DB8-906A-8F3D6C7AF508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A39F36BB-7326-4DB8-906A-8F3D6C7AF508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A39F36BB-7326-4DB8-906A-8F3D6C7AF508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A39F36BB-7326-4DB8-906A-8F3D6C7AF508}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
